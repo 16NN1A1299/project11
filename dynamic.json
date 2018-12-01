@@ -1,0 +1,41 @@
+{
+  "career":{
+    "info":"to work in enivironment where can i utilize my skill and knowaledge"
+  },
+  "education":[
+    {
+      "degree":"B.tech(IT)",
+      "institution":"vignan",
+      "yop":"2020",
+      "percentage":"80"
+    },
+  {
+    "degree":"inter",
+    "institution":"saraswathi",
+    "yop":"2016",
+    "percentage":"80"
+  },
+  {
+    "degree":"ssc",
+    "institution":"girls high school",
+    "yop":"2014",
+    "percentage":"75"
+  }
+],
+"skills":[
+  {
+    "title":"platforms",
+    "content":"windows,Linux"
+
+  },
+  {
+    "title":"programming languges",
+    "content":"c,c++,python,java,html,js,json"
+  },
+  {
+    "title":"Database",
+    "content":"MySQL,SQL"
+  }
+],
+"Languges":"telugu,english,hindi"
+  }
